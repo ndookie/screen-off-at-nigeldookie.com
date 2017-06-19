@@ -2,5 +2,6 @@
     "uuid": "screen-off@nigeldookie.com",
     "name": "Screen Off",
     "description": "Click on the applet to turn screen off until awakening.",
-    "icon": "application-exit"
+    "icon": "application-exit",
+    "max-instances":"1"
 }
